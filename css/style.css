@@ -612,7 +612,7 @@ ol {
 
 
 .section-title {
-  font-size: 40px;
+  font-size: 32px;
   font-weight: 600;
   margin-bottom: 40px;
   color: #61dafb; /* لون Flutter */
@@ -641,7 +641,7 @@ ol {
   min-width: 160px;
   font-weight: 600;
   color: #61dafb;
-  font-size: 32px;
+  font-size: 24px;
   padding-top: 4px;
 }
 
@@ -654,20 +654,20 @@ ol {
 }
 
 .edu-content h3 {
-  font-size: 32px;
+  font-size: 24px;
   font-weight: 600;
   margin-bottom: 6px;
   color: #fff;
 }
 
 .edu-sub {
-  font-size: 24px;
+  font-size: 16px;
   color: #f0f0f0;
   margin-bottom: 4px;
 }
 
 .edu-gpa {
-  font-size: 24px;
+  font-size: 16px;
   font-weight: 500;
   color: #61dafb;
 }
